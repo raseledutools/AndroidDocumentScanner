@@ -88,7 +88,7 @@ class MainActivity : AppCompatActivity() {
                         "You have to grant the permissions! Grant them from app settings please.",
                         Toast.LENGTH_LONG
                     ).show()
-                    finish()
+//                    finish()
                 }
                 .ask()
         } else {

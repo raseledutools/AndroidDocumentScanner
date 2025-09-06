@@ -17,6 +17,7 @@ import androidx.lifecycle.LifecycleCoroutineScope
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.findViewTreeLifecycleOwner
 import androidx.lifecycle.lifecycleScope
+import com.github.mayuce.R
 import com.labters.documentscanner.libraries.NativeClass
 import com.labters.documentscanner.libraries.PolygonView
 import kotlinx.coroutines.delay

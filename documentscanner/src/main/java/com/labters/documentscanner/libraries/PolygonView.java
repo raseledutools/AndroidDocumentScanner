@@ -22,7 +22,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.Magnifier;
 
-import com.labters.documentscanner.R;
+
+import com.github.mayuce.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;
